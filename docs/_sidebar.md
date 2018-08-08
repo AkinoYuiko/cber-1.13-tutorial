@@ -1,6 +1,4 @@
-# Minecraft 1.13 Command Tutorial
-
-- [序言 什么是指令？](README.md)
+- [Introduction](README.md)
 - [第一章 数据类型 & 字符串](1.md)
 - [第二章 指令等级 & 指令格式](2.md)
 - [第三章 坐标 & 朝向](3.md)

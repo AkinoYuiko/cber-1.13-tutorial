@@ -12,10 +12,16 @@
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
-		name:"命令大教程 1.13",
+		name: "命令大教程 1.13",
+    repo: "AkinoYuiko/cber-1.13-tutorial",
 		loadSidebar: true,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
 		subMaxLevel: 2,
-		auto2top: true
+		auto2top: true,
+    logo: "/_media/logo.png"
+
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
